@@ -1,0 +1,296 @@
+@media screen and (max-width: 991px) {
+
+
+nav {
+	text-align: center;
+}
+
+
+nav ul {
+	padding-top: 20px;
+	text-align: center;
+}
+
+
+nav ul li a {
+	padding: 10px 20px;
+}
+
+
+
+.features {
+	padding-top: 50px;
+	padding-bottom: 40px;
+}
+
+.features .row:nth-child(1) {
+	margin-top: 50px;
+}
+
+
+.features .row:nth-child(2) {
+	margin-top: 120px;
+}
+
+
+.look {
+	padding-top: 40px;
+	padding-bottom: 50px;
+	background: #eef1ec url(../img/9.png) -40px 270px no-repeat;
+	background-size: 314px 376px;
+}
+
+.look .row {
+	margin-top: 45px;
+}
+
+
+.disigner {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.disigner p {
+	font: 400 18px/2 merriweather;
+	color: #83a7a5;
+	margin-top: 50px;
+}
+
+.disigner p:nth-of-type(2) {
+	font: 400 14px Roboto;
+	margin-top: 5px;
+}
+
+.disigner span {
+	display: block;
+	text-align: left;
+	font: bold 14px Roboto;
+	color: #6fb048;
+}
+
+.map {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	background-color: #eef1ec;
+}
+
+.map img {
+	margin-top: 50px;
+}
+
+.map h1 {
+	text-align: left;
+	margin-top: 0px;
+}
+
+.map p {
+	color: #83a7a5;
+	font: bold 14px/2 Roboto;
+}
+
+.price {
+	padding-top: 25px;
+}
+
+
+.downl a {
+	padding: 15px 20px;
+}
+
+footer {
+	padding-top: 55px;
+}
+
+footer input {
+	width: 100%;
+	background: #eef1ec url(../img/18.png) 95% 50% no-repeat;
+}
+
+
+.copy span {
+	text-align: right;
+	padding-right: 10px;
+}
+
+
+address {
+	font: bold 15px Arial;
+	color: #83a7a5;
+	margin-top: 15px;
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 768px) {
+
+div > h1 {
+	font: 400 34px Roboto;
+	color: #0f5f5c;
+	text-align: center;
+}
+
+div > hr {
+	background-color: #6fb048;
+	height: 1px;
+	text-align: center;
+}
+
+div > span {
+	color: #83a7a5;
+	font: bold 15px/1.6 Arial;
+	display: block;
+	text-align: center;
+	padding: 0 15px;
+}
+
+nav {
+	text-align: center;
+}
+
+
+nav ul {
+	padding-top: 20px;
+	text-align: center;
+}
+
+
+nav ul li a {
+	padding: 10px 20px;
+}
+
+header {
+	color: #fff;
+	padding-top: 125px;
+	padding-bottom: 200px;
+}
+
+header h1 {
+	font: 400 36px Roboto;
+	color: #fff;
+	text-align: left;
+}
+
+header p {
+	font: 300 16px/1.5 Roboto;
+}
+
+
+.features {
+	padding-top: 50px;
+	padding-bottom: 40px;
+}
+
+.features .row:nth-child(1) {
+	margin-top: 50px;
+}
+
+.features .row:nth-child(1) img {
+	margin-top: 40px;
+}
+
+.features .row:nth-child(2) {
+	margin-top: 120px;
+}
+
+
+.look {
+	background: #eef1ec url() -40px 270px no-repeat;
+}
+
+.look .row {
+	margin-top: 45px;
+}
+
+.disigner {
+	padding-top: 25px;
+	padding-bottom: 50px;
+}
+
+.disigner p {
+	font: 400 18px/2 merriweather;
+	color: #83a7a5;
+	margin-top: 30px;
+}
+
+.disigner p:nth-of-type(2) {
+	margin-bottom: 50px;
+}
+
+
+
+.price {
+	padding-top: 25px;
+}
+
+.price .row div {
+	padding: 30px 0;
+	border: 1px solid #ccc;
+}
+
+.price .row div:nth-of-type(2) {
+	border: 1px solid #ccc;
+	border-top: none;
+	border-bottom: none;
+}
+
+.downl a {
+	padding: 15px 20px;
+}
+
+footer div {
+	height: 220px;
+}
+
+footer div ul {
+	padding: 0 10px;
+}
+
+footer input {
+	width: 100%;
+}
+
+
+.copy span {
+	text-align: right;
+	padding-right: 10px;
+}
+
+
+address {
+	font: bold 15px Arial;
+	color: #83a7a5;
+	margin-top: 15px;
+}
+
+
+
+
+}
+
+
+
+
